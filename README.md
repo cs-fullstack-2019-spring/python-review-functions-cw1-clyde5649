@@ -1,3 +1,6 @@
+### 0 POINTS
+### KEY: Neither of the 2 solutions run properly
+
 # Python Review: Functions Classwork
 
 ### Problem 1:
